@@ -6,7 +6,7 @@ Other libs I used:
 * [vue-upload-drop-images](https://github.com/yudax42/vue-upload-drop-images)
 * [vuex](https://vuex.vuejs.org)
 
-You can access the online version [here]()
+You can access the online version [here](https://estudo-diet-system-ii.netlify.app)
 
 Code made for study following project screens   
 https://www.figma.com/file/oUMu7TEe1r8KIComRnerDh/Registros-alimentares?node-id=0%3A1
